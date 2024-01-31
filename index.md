@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
 
 <head>
@@ -9,4 +9,6 @@
     <p>Hello</p>
 </body>
 
-</html>
+</html> -->
+
+Hello
