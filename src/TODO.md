@@ -2,9 +2,6 @@
 
 -   [x] Fix explorer shortcut
 
-    -   If !view.workbench.explorer.fileView.visible then workbench.view.explorer
-    -   If view.workbench.explorer.fileView.visible then workbench.action.toggleSidebarVisibility
-
     ```json
     {
         "key": "ctrl+e",
