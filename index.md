@@ -2,4 +2,4 @@
 
 [Vim](src/vim.md)
 
-[TODO](src\test.md)
+[TODO](src/test.md)
