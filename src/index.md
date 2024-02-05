@@ -2,9 +2,9 @@
 
 ## Internal
 
-[Vim](src/vim.md)
+[Vim](vim.md)
 
-[TODO](src/TODO.md)
+[TODO](TODO.md)
 
 ## External
 
