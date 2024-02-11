@@ -14,6 +14,12 @@
     %s/\[\(.*\)\](src\/\(.*\)\.md)/[\1](docs\/\2.html)
     ```
 
- - Markdown goto link: ```gf```
+ - Markdown goto file link: ```gf```
 
  - Goto previous buffer: ```Ctrl-^```
+
+ - Markdown goto web link: ```gx```
+
+ - Reformat file to tab settings ```:retab```
+
+ - Goto docs for symbol under cursor (super cool): ```Shift-k```
