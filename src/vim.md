@@ -23,3 +23,5 @@
  - Reformat file to tab settings ```:retab```
 
  - Goto docs for symbol under cursor (super cool): ```Shift-k```
+
+ - See Tresitter tree (like treesitter-playground): ```:InspectTree```
